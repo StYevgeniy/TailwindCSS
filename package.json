@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vite",
     "build": "cross-env BUILD_TYPE=dev vite build",
-    "serve": "vite preview --port 3000",
+    "serve": "vite preview --port 5500",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
